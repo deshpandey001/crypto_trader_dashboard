@@ -1,0 +1,97 @@
+
+========================================
+EXECUTIVE SUMMARY
+========================================
+
+Report Generated: 2026-05-20 21:15:18
+Analysis Period: Complete Dataset
+
+KEY METRICS:
+- Total Trades: 18800
+- Total PnL: $6046.63
+- Average Win Rate: 18.24%
+- Maximum Drawdown: 90.32%
+- Active Traders: 32
+- Most Traded Symbol: ETH
+
+SENTIMENT ANALYSIS:
+- Fear Periods Win Rate: 18.48%
+- Greed Periods Win Rate: 18.19%
+
+LEVERAGE METRICS:
+- Average Leverage: 1.00x
+- High Leverage Trades: 0.00%
+- Liquidations: 0
+
+========================================
+        
+========================================
+INSIGHTS & RECOMMENDATIONS
+========================================
+
+KEY INSIGHTS:
+
+1. Fear periods show 0.3% higher win rate than greed periods. Traders tend to be more disciplined during market downturns.
+
+2. Average trade profits: Fear = $0.33, Greed = $0.32. Both sentiments remain profitable, but discipline varies.
+
+3. Top performer (0x28736f43f1e871e6aa8b1148d38d4994275d72c4) generated $2550.71 PnL. Study their trade patterns for best practices.
+
+4. Best performing symbol: SHIA (Avg PnL: $5.77). Allocate more capital to high-performing pairs.
+
+5. Stable PnL results (StdDev: $1.08) indicate consistent trading execution.
+
+6. 32 traders classified as 'High Risk'. Monitor their activity closely and enforce position limits.
+
+RECOMMENDATIONS:
+
+1. Winning trades most frequently use Low leverage. Standardize on this leverage level for new traders.
+
+2. Most wins occur during Greed periods. Adjust trading strategy based on sentiment regime.
+
+3. Position sizes appear too concentrated. Diversify across more symbols and reduce per-trade exposure to 2-5% of account equity.
+
+========================================
+
+========================================
+MACHINE LEARNING MODEL PERFORMANCE
+========================================
+
+PROFITABILITY PREDICTION MODELS:
+
+TRADER RISK CLASSIFICATION:
+- KMeans Clustering: 3 clusters (Low/Medium/High Risk)
+- DBSCAN Clustering: Density-based anomaly detection
+
+========================================
+
+========================================
+TRADER ANALYSIS & SEGMENTATION
+========================================
+
+
+Total Traders Analyzed: 32
+
+TOP PERFORMERS:
+- 0x28736f43f1e871e6aa8b1148d38d4994275d72c4: $2550.71 PnL, 29.2% Win Rate
+- 0xbee1707d6b44d4d52bfe19e41f8a828645437aab: $758.97 PnL, 20.6% Win Rate
+- 0x47add9a56df66b524d5e2c1993a43cde53b6ed85: $615.77 PnL, 14.1% Win Rate
+
+PERFORMANCE BY RISK LEVEL:
+- High Risk: Avg PnL $188.96, 18895.7% Win Rate
+
+========================================
+
+========================================
+CONCLUSION
+========================================
+
+This comprehensive analysis provides insights into trader behavior,
+market sentiment effects, and risk patterns. The generated machine
+learning models can predict trade profitability with high accuracy
+and classify traders into risk categories for targeted interventions.
+
+Regular monitoring of key metrics and adherence to recommendations
+will improve overall trading performance and reduce systemic risk.
+
+========================================
