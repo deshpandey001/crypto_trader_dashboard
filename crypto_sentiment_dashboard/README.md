@@ -106,13 +106,11 @@ Generates 50+ rule-based insights:
 - Symbol-specific insights
 
 ### 6. Interactive Dashboard
-**Six Main Tabs:**
+**Four Main Tabs:**
 1. **Overview** - Executive KPIs and key metrics
-2. **Analysis** - Advanced analytics and detailed statistics
-3. **ML Models** - Model performance and feature importance
-4. **Charts** - Interactive visualizations (10+ charts)
-5. **Insights** - AI-generated recommendations
-6. **Export** - Report generation and data export
+2. **Charts** - Interactive visualizations (10+ charts)
+3. **Insights** - AI-generated recommendations
+4. **Export** - Report generation and data export
 
 **Features:**
 - Dark futuristic trading UI (custom CSS)
